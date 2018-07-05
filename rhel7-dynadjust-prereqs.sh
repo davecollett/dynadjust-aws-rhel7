@@ -48,7 +48,7 @@ sudo yum-config-manager --enable epel
 wget http://dl.fedoraproject.org/pub/epel/7/x86_64/Packages/x/xsd-4.0.0-14.el7.x86_64.rpm
 sudo yum install -y xsd-4.0.0-14.el7.x86_64.rpm
 
-wget https://rpmfind.net/linux/centos/7.4.1708/os/x86_64/Packages/xerces-c-devel-3.1.1-8.el7_2.x86_64.rpm
+wget https://rpmfind.net/linux/centos/7/os/x86_64/Packages/xerces-c-devel-3.1.1-8.el7_2.x86_64.rpm
 sudo yum install -y xerces-c-devel-3.1.1-8.el7_2.x86_64.rpm
 #rm *.rpm
 
